@@ -2,8 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="623c2dcb-0425-4a79-87f4-444436610b06" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/gradle/wrapper/gradle-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/.idea/gradle.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/.idea/runConfigurations.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/app/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/app/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/app/proguard-rules.pro" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/app/src/androidTest/java/com/example/thierryjudge/tensorflow_tictactoe/ExampleInstrumentedTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/app/src/main/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/app/src/main/assets/frozen_tictactoe.pb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/app/src/main/assets/opt_tictactoe.pb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/app/src/main/java/com/example/thierryjudge/tensorflow_tictactoe/GameController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/app/src/main/java/com/example/thierryjudge/tensorflow_tictactoe/MainActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/app/src/main/java/com/example/thierryjudge/tensorflow_tictactoe/TButton.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/app/src/main/res/layout/activity_main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/app/src/main/res/values/colors.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/app/src/main/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/app/src/main/res/values/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/app/src/test/java/com/example/thierryjudge/tensorflow_tictactoe/ExampleUnitTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/gradle.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/gradlew" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/gradlew.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Android_Tensorflow_TicTacToe/settings.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -306,13 +345,20 @@
       <option name="presentableId" value="Default" />
       <updated>1520556816052</updated>
     </task>
+    <task id="LOCAL-00001" summary="Updated readme and added android project">
+      <created>1524446276719</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1524446276720</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1552" height="840" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24597855" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24597855" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4131016" sideWeight="0.50277776" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -360,6 +406,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated readme and added android project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated readme and added android project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
